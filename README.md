@@ -13,3 +13,7 @@ git add.
 git commit -m "This is my first commit"
 
 '''
+
+'''
+git pull --> to fetch the changes done in github repository manually.
+'''
